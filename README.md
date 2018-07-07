@@ -43,7 +43,7 @@ These code can build with Arduino IDE 1.8.4.
 *   GND   <->  GND
 
 -------------------------
-*   Nano  <->  Battery
+  Nano  <->  Battery
 -------------------------
 *   VIN   <->  VCC
 *   GND   <->  GND
