@@ -18,32 +18,32 @@ These code can build with Arduino IDE 1.8.4.
 -------------------------
   Nano  <->  RTC DS3231
 -------------------------
-  D2    <->  SQQ
-  A5    <->  SCL
-  A4    <->  SDA
-  5V    <->  VCC
-  GND   <->  GND
+*   D2    <->  SQQ
+*   A5    <->  SCL
+*   A4    <->  SDA
+*   5V    <->  VCC
+*   GND   <->  GND
 
 -------------------------
   Nano  <->  BME280 x2
 -------------------------
-  A5    <->  SCK/SCL
-  A4    <->  SDI/SDA
-  5V    <->  VCC
-  GND   <->  GND
+*   A5    <->  SCK/SCL
+*   A4    <->  SDI/SDA
+*   5V    <->  VCC
+*   GND   <->  GND
 
 -------------------------
   Nano  <->  SD card 
 -------------------------
-  CS    <->  D10
-  SCK   <->  D13
-  MOSI  <->  D11
-  MISO  <->  D12
-  5V    <->  VCC
-  GND   <->  GND
+*   CS    <->  D10
+*   SCK   <->  D13
+*   MOSI  <->  D11
+*   MISO  <->  D12
+*   5V    <->  VCC
+*   GND   <->  GND
 
 -------------------------
-  Nano  <->  Battery
+*   Nano  <->  Battery
 -------------------------
-  VIN   <->  VCC
-  GND   <->  GND
+*   VIN   <->  VCC
+*   GND   <->  GND
